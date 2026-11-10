@@ -15,7 +15,7 @@ The first call opens a browser to sign in to your A1 account (OAuth). You can al
 ## Details
 
 - Server: `https://www.a1.gallery/api/mcp` (Streamable HTTP, OAuth 2.1 with PKCE and dynamic client registration)
-- 17 read-only tools
+- 21 tools: 19 read-only, plus save_to_board and remove_from_board for your own A1 boards
 - Free with an A1 account (50 calls a day). Pro: 2,000 calls a day.
 
 ## Links
